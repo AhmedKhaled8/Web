@@ -1,0 +1,6 @@
+[submodule "CMMS"]
+	path = CMMS
+	url = https://github.com/AhmedKhaled8/CMMS
+[submodule "Greatest Color Game"]
+	path = Greatest Color Game
+	url = https://github.com/AhmedKhaled8/greatest-color-game

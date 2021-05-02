@@ -4,3 +4,6 @@
 [submodule "Greatest Color Game"]
 	path = Greatest Color Game
 	url = https://github.com/AhmedKhaled8/greatest-color-game
+[submodule "Code Blocks Template"]
+	path = Code Blocks Template
+	url = https://github.com/AhmedKhaled8/Codeblock-Template
